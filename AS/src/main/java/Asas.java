@@ -2,7 +2,7 @@
 public class Asas {
 
 	public static void main(String[] args) {
-		System.out.println("안녕하세");
+		System.out.println("안녕하세dy");
 	}
 
 }
